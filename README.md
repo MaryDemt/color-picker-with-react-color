@@ -1,1 +1,0 @@
-# color-picker-with-react-color
